@@ -7,6 +7,8 @@
 
 > Nous allons tester le brute force, nous allons donc utiliser un projet de base pour le tester
 
+Lien du repo github pour la partie hack : [GorskiAnthony/WCS_BruteForceHack](https://github.com/GorskiAnthony/WCS_BruteForceHack)
+
 ## Install
 
 ```sh
